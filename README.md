@@ -11,6 +11,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://komarev.com/ghpvc/?username=heynawaz&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=heynawaz)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
