@@ -28,8 +28,6 @@ My work includes:
 
 I enjoy building systems that are fast, maintainable, scalable, and actually useful in real-world business environments. A strangely uncommon industry goal.
 
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -49,8 +47,6 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
 
 ## 🛠 Tech Stack
 
@@ -90,8 +86,6 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
 ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
 ## 📊 Contribution Activity
 
 <picture>
@@ -109,8 +103,6 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
   />
 </picture>
 
----
-
 ## 📈 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=heynawaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -119,13 +111,9 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=heynawaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
 ## 🏆 GitHub Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=heynawaz&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
-
----
 
 ## 🤝 Open For
 
