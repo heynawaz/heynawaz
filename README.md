@@ -3,10 +3,10 @@
 ###
 <h3 align="center">A passionate full stack engineer with 10+ happy clients.</h3>
 
-# 🌐 Connect on:
+## 🌐 Connect on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahnawaz.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahnawazz) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shah-Nawaz-71) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/heynawaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahnawaz.com@hotmail.com)
 
-# 📊 GitHub logs:
+## 📊 GitHub logs:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
