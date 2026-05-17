@@ -12,8 +12,6 @@ Specialized in React.js, Next.js, Node.js, NestJS, Python, AI Agents, cloud infr
 💼 5+ Years Experience • 🚀 10+ Happy Clients • 🌍 Remote Friendly
 </p>
 
----
-
 ## 🚀 About Me
 
 I’m a full stack engineer focused on building scalable, production-grade applications with modern technologies.
