@@ -102,11 +102,7 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=heynawaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=heynawaz&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=heynawaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heynawaz&mode=weekly)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Achievements
 
