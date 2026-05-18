@@ -12,8 +12,6 @@ Specialized in React.js, Next.js, Node.js, NestJS, Python, AI Agents, cloud infr
 💼 5+ Years Experience • 🚀 10+ Happy Clients • 🌍 Remote Friendly
 </p>
 
-## 🌐 Connect With Me
-
 <p align="center">
 <a href="https://linkedin.com/in/shahnawazz" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
