@@ -12,41 +12,9 @@ Specialized in React.js, Next.js, Node.js, NestJS, Python, AI Agents, cloud infr
 💼 5+ Years Experience • 🚀 10+ Happy Clients • 🌍 Remote Friendly
 </p>
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=heynawaz&theme=xcode)
-
-## 📊 Contribution Activity
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heynawaz&theme=github_dark"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heynawaz&theme=github"
-  />
-  <img
-    alt="github contribution"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heynawaz&theme=github"
-  />
-</picture>
-
-## 🚀 About Me
-
-I’m a full stack engineer focused on building scalable, production-grade applications with modern technologies.
-
-My work includes:
-- AI Agent Platforms
-- AI Chatbot Systems with RAG
-- Real-time Monitoring Platforms
-- Enterprise Dashboards
-- SaaS Applications
-- Automation & Internal Tools
-
-I enjoy building systems that are fast, maintainable, scalable, and actually useful in real-world business environments. A strangely uncommon industry goal.
-
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/shahnawazz" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -63,6 +31,20 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
+
+## 🚀 About Me
+
+I’m a full stack engineer focused on building scalable, production-grade applications with modern technologies.
+
+My work includes:
+- AI Agent Platforms
+- AI Chatbot Systems with RAG
+- Real-time Monitoring Platforms
+- Enterprise Dashboards
+- SaaS Applications
+- Automation & Internal Tools
+
+I enjoy building systems that are fast, maintainable, scalable, and actually useful in real-world business environments. A strangely uncommon industry goal.
 
 ## 🛠 Tech Stack
 
@@ -101,6 +83,22 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 Contribution Activity
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heynawaz&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heynawaz&theme=github"
+  />
+  <img
+    alt="github contribution"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heynawaz&theme=github"
+  />
+</picture>
 
 ## 📈 GitHub Stats
 <picture>
