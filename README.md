@@ -13,11 +13,18 @@ Specialized in React.js, Next.js, Node.js, NestJS, Python, AI Agents, cloud infr
 </p>
 
 ## 📊 Contribution Activity
-
 <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
   <img
-    alt="github contribution"
-    src="https://raw.githubusercontent.com/Shpota/github-activity-generator/refs/heads/main/.github/after.png)"
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
