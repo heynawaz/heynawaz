@@ -104,11 +104,11 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heynawaz&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&card_width=595)](https://git.io/streak-stats)"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=heynawaz&theme=github-dark&hide_border=true&border_radius=0&mode=weekly&card_width=595"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=heynawaz&theme=github-light&hide_border=true&border_radius=0&mode=weekly&card_width=595)](https://git.io/streak-stats"
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=heynawaz&theme=github-light&hide_border=true&border_radius=0&mode=weekly&card_width=595"
   />
   <img
     alt="github contribution"
