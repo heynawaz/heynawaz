@@ -12,24 +12,6 @@ Specialized in React.js, Next.js, Node.js, NestJS, Python, AI Agents, cloud infr
 💼 5+ Years Experience • 🚀 10+ Happy Clients • 🌍 Remote Friendly
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/shahnawazz" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-  
-<a href="mailto:shahnawaz.com@hotmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://x.com/heynawaz" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/shahnawaz.in" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
-
 ## 🚀 About Me
 
 I’m a full stack engineer focused on building scalable, production-grade applications with modern technologies.
@@ -114,10 +96,6 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
   />
 </picture>
 
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=heynawaz&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
-
 ## 🤝 Open For
 
 - Freelance Projects
@@ -127,6 +105,25 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
 - Technical Consulting
 
 📧 Reach me at: **shahnawaz.com@hotmail.com**
+
+## 🌐 Connect with me:
+<p align="center">
+<a href="https://linkedin.com/in/shahnawazz" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+  
+<a href="mailto:shahnawaz.com@hotmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/heynawaz" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/shahnawaz.in" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 
 ---
 
