@@ -12,6 +12,8 @@ Specialized in React.js, Next.js, Node.js, NestJS, Python, AI Agents, cloud infr
 💼 5+ Years Experience • 🚀 10+ Happy Clients • 🌍 Remote Friendly
 </p>
 
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=heynawaz&theme=xcode)
+
 ## 📊 Contribution Activity
 <picture>
   <source
