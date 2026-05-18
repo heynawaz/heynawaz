@@ -16,15 +16,15 @@ Specialized in React.js, Next.js, Node.js, NestJS, Python, AI Agents, cloud infr
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heynawaz&theme=github_dark"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heynawaz&theme=github"
   />
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="github contribution"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heynawaz&theme=github"
   />
 </picture>
 
