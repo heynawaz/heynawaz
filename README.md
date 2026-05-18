@@ -28,8 +28,6 @@ Specialized in React.js, Next.js, Node.js, NestJS, Python, AI Agents, cloud infr
   />
 </picture>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heynawaz&theme=github)
-
 ## 🚀 About Me
 
 I’m a full stack engineer focused on building scalable, production-grade applications with modern technologies.
