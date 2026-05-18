@@ -102,7 +102,7 @@ I enjoy building systems that are fast, maintainable, scalable, and actually use
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heynawaz&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heynawaz&mode=weekly&card_width=695)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Achievements
 
